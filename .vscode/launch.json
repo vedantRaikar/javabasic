@@ -1,0 +1,157 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "char2int",
+      "request": "launch",
+      "mainClass": "char2int",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "strchar3",
+      "request": "launch",
+      "mainClass": "strchar3",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "strchar2",
+      "request": "launch",
+      "mainClass": "strchar2",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "strchar1",
+      "request": "launch",
+      "mainClass": "strchar1",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "roundoff1",
+      "request": "launch",
+      "mainClass": "roundoff1",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "removespace",
+      "request": "launch",
+      "mainClass": "removespace",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "ferqalpha",
+      "request": "launch",
+      "mainClass": "ferqalpha",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "root",
+      "request": "launch",
+      "mainClass": "root",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "largestnum",
+      "request": "launch",
+      "mainClass": "largestnum",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "checkvowel",
+      "request": "launch",
+      "mainClass": "checkvowel",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "oddeven",
+      "request": "launch",
+      "mainClass": "oddeven",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "swap",
+      "request": "launch",
+      "mainClass": "swap",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "qoutient",
+      "request": "launch",
+      "mainClass": "qoutient",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "ascii",
+      "request": "launch",
+      "mainClass": "ascii",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "multipy",
+      "request": "launch",
+      "mainClass": "multipy",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "sum2num",
+      "request": "launch",
+      "mainClass": "sum2num",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "printin",
+      "request": "launch",
+      "mainClass": "printin",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "condition1",
+      "request": "launch",
+      "mainClass": "condition1",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "hellotest",
+      "request": "launch",
+      "mainClass": "hellotest",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/vedant raikar/Desktop/java",
+      "program": "c:/Users/vedant raikar/Desktop/java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
