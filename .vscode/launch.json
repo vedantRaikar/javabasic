@@ -3,6 +3,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "countdigit",
+      "request": "launch",
+      "mainClass": "countdigit",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "lcm",
+      "request": "launch",
+      "mainClass": "lcm",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "gcd",
+      "request": "launch",
+      "mainClass": "gcd",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "fibonacci",
+      "request": "launch",
+      "mainClass": "fibonacci",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "multiplicationtable",
+      "request": "launch",
+      "mainClass": "multiplicationtable",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "factorial",
+      "request": "launch",
+      "mainClass": "factorial",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "sumofnaturalnumber",
+      "request": "launch",
+      "mainClass": "sumofnaturalnumber",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "positivenegative",
+      "request": "launch",
+      "mainClass": "positivenegative",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "leapyear",
+      "request": "launch",
+      "mainClass": "leapyear",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "int2char",
+      "request": "launch",
+      "mainClass": "int2char",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "chartoint",
+      "request": "launch",
+      "mainClass": "chartoint",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
       "name": "char2int",
       "request": "launch",
       "mainClass": "char2int",
