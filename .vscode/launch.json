@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "checkpalindrome",
+      "request": "launch",
+      "mainClass": "checkpalindrome",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "maxofthreenested",
+      "request": "launch",
+      "mainClass": "maxofthreenested",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "maxofthree",
+      "request": "launch",
+      "mainClass": "maxofthree",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "countdigits",
+      "request": "launch",
+      "mainClass": "countdigits",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
       "name": "countdigit",
       "request": "launch",
       "mainClass": "countdigit",
