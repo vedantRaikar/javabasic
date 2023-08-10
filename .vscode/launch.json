@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "recusionfactorial",
+      "request": "launch",
+      "mainClass": "recusionfactorial",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "largestnumfuction",
+      "request": "launch",
+      "mainClass": "largestnumfuction",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "printprimebetweenintervals",
+      "request": "launch",
+      "mainClass": "printprimebetweenintervals",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
       "name": "checkpalindrome",
       "request": "launch",
       "mainClass": "checkpalindrome",
