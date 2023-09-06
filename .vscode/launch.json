@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "class1",
+      "request": "launch",
+      "mainClass": "build.Debug.class1",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
       "name": "recusionfactorial",
       "request": "launch",
       "mainClass": "recusionfactorial",
