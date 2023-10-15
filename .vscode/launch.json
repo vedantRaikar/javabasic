@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ser",
+      "request": "launch",
+      "mainClass": "ser",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "figure",
+      "request": "launch",
+      "mainClass": "figure",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "importingmax",
+      "request": "launch",
+      "mainClass": "importingmax",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "grad",
+      "request": "launch",
+      "mainClass": "grad",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
+      "name": "stackexception",
+      "request": "launch",
+      "mainClass": "stackexception",
+      "projectName": "java_fac1a213"
+    },
+    {
+      "type": "java",
       "name": "threads",
       "request": "launch",
       "mainClass": "threads",
